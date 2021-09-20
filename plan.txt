@@ -1,0 +1,14 @@
+﻿This text file is the plan for the project : 
+Goal = Find the real estate opportunities that maximize ROI by creating a spreadsheet that lists all American cities and the expected ROI. We will calculate expected ROI by collecting data like (by column):
+- City name
+- State
+- ZIP Code
+- Home type (apartment, single family, multi family, condo)
+- Median home value
+- Price to rent ratio
+- Median income
+- Unemployment rate
+- Demographics by race (White, Black, Asian, Hispanic)
+- Demographics by age (Average age / by segements)
+- 
+
