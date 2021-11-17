@@ -1,0 +1,254 @@
+{"Item":{"city-name":{"S":"Yorba Linda"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Dayton"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"Tucson"},"state":{"S":"Arizona"}}}
+{"Item":{"city-name":{"S":"Fort Worth"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Allen"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Detroit"},"state":{"S":"Michigan"}}}
+{"Item":{"city-name":{"S":"Fullerton"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"San Francisco"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Grand Junction"},"state":{"S":"Colorado"}}}
+{"Item":{"city-name":{"S":"North Charleston"},"state":{"S":"South Carolina"}}}
+{"Item":{"city-name":{"S":"Broomfield"},"state":{"S":"Colorado"}}}
+{"Item":{"city-name":{"S":"San Leandro"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Beavercreek"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"West Palm Beach"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Midwest City"},"state":{"S":"Oklahoma"}}}
+{"Item":{"city-name":{"S":"Bridgeport"},"state":{"S":"Connecticut"}}}
+{"Item":{"city-name":{"S":"Arvada"},"state":{"S":"Colorado"}}}
+{"Item":{"city-name":{"S":"Martinez"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Dublin"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"North Richland Hills"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Nashua"},"state":{"S":"New Hampshire"}}}
+{"Item":{"city-name":{"S":"Rancho Santa Margarita"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Warren"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"Pasadena"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Phoenix"},"state":{"S":"Arizona"}}}
+{"Item":{"city-name":{"S":"Concord"},"state":{"S":"North Carolina"}}}
+{"Item":{"city-name":{"S":"m"},"state":{"S":"a"}}}
+{"Item":{"city-name":{"S":"Lewisville"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Orlando"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Syracuse"},"state":{"S":"New York"}}}
+{"Item":{"city-name":{"S":"C"},"state":{"S":"C"}}}
+{"Item":{"city-name":{"S":"Salinas"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Florence"},"state":{"S":"South Carolina"}}}
+{"Item":{"city-name":{"S":"Hurst"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Hesperia"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Boynton Beach"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Huntington Park"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Cary"},"state":{"S":"North Carolina"}}}
+{"Item":{"city-name":{"S":"Stanton"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Madison"},"state":{"S":"Alabama"}}}
+{"Item":{"city-name":{"S":"Fresno"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"St. Clair Shores"},"state":{"S":"Michigan"}}}
+{"Item":{"city-name":{"S":"Rock Hill"},"state":{"S":"South Carolina"}}}
+{"Item":{"city-name":{"S":"Logan"},"state":{"S":"Utah"}}}
+{"Item":{"city-name":{"S":"San Jacinto"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Fort Lauderdale"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Vancouver"},"state":{"S":"Washington"}}}
+{"Item":{"city-name":{"S":"Battle Creek"},"state":{"S":"Michigan"}}}
+{"Item":{"city-name":{"S":"Marietta"},"state":{"S":"Georgia"}}}
+{"Item":{"city-name":{"S":"Janesville"},"state":{"S":"Wisconsin"}}}
+{"Item":{"city-name":{"S":"San Antonio"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Waterbury"},"state":{"S":"Connecticut"}}}
+{"Item":{"city-name":{"S":"El Cajon"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Cerritos"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Attleboro"},"state":{"S":"Massachusetts"}}}
+{"Item":{"city-name":{"S":"Carmel"},"state":{"S":"Indiana"}}}
+{"Item":{"city-name":{"S":"Newton"},"state":{"S":"Massachusetts"}}}
+{"Item":{"city-name":{"S":"Maricopa"},"state":{"S":"Arizona"}}}
+{"Item":{"city-name":{"S":"Daytona Beach"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"New Orleans"},"state":{"S":"Louisiana"}}}
+{"Item":{"city-name":{"S":"Loveland"},"state":{"S":"Colorado"}}}
+{"Item":{"city-name":{"S":"Fishers"},"state":{"S":"Indiana"}}}
+{"Item":{"city-name":{"S":"Lake Charles"},"state":{"S":"Louisiana"}}}
+{"Item":{"city-name":{"S":"Eugene"},"state":{"S":"Oregon"}}}
+{"Item":{"city-name":{"S":"Beloit"},"state":{"S":"Wisconsin"}}}
+{"Item":{"city-name":{"S":"New Brunswick"},"state":{"S":"New Jersey"}}}
+{"Item":{"city-name":{"S":"Port Orange"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Lombard"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Yuba City"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Washington"},"state":{"S":"District of Columbia"}}}
+{"Item":{"city-name":{"S":"Terre Haute"},"state":{"S":"Indiana"}}}
+{"Item":{"city-name":{"S":"Wheeling"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Cedar Rapids"},"state":{"S":"Iowa"}}}
+{"Item":{"city-name":{"S":"Brentwood"},"state":{"S":"Tennessee"}}}
+{"Item":{"city-name":{"S":"West Jordan"},"state":{"S":"Utah"}}}
+{"Item":{"city-name":{"S":"Keller"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"St. George"},"state":{"S":"Utah"}}}
+{"Item":{"city-name":{"S":"Glendale"},"state":{"S":"Arizona"}}}
+{"Item":{"city-name":{"S":"Bloomington"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Homestead"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Santa Fe"},"state":{"S":"New Mexico"}}}
+{"Item":{"city-name":{"S":"Salina"},"state":{"S":"Kansas"}}}
+{"Item":{"city-name":{"S":"Kearny"},"state":{"S":"New Jersey"}}}
+{"Item":{"city-name":{"S":"Casper"},"state":{"S":"Wyoming"}}}
+{"Item":{"city-name":{"S":"DeSoto"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Champaign"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Sherman"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Doral"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Stamford"},"state":{"S":"Connecticut"}}}
+{"Item":{"city-name":{"S":"Rogers"},"state":{"S":"Arkansas"}}}
+{"Item":{"city-name":{"S":"Cuyahoga Falls"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"Flower Mound"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Buffalo Grove"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Colorado Springs"},"state":{"S":"Colorado"}}}
+{"Item":{"city-name":{"S":"Murrieta"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Hanover Park"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"East Lansing"},"state":{"S":"Michigan"}}}
+{"Item":{"city-name":{"S":"El Centro"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Madera"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Kent"},"state":{"S":"Washington"}}}
+{"Item":{"city-name":{"S":"Hamilton"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"Muskegon"},"state":{"S":"Michigan"}}}
+{"Item":{"city-name":{"S":"Apopka"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Pontiac"},"state":{"S":"Michigan"}}}
+{"Item":{"city-name":{"S":"Flint"},"state":{"S":"Michigan"}}}
+{"Item":{"city-name":{"S":"McKinney"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Yonkers"},"state":{"S":"New York"}}}
+{"Item":{"city-name":{"S":"Rockville"},"state":{"S":"Maryland"}}}
+{"Item":{"city-name":{"S":"Coconut Creek"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Santa Cruz"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Norwalk"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Norfolk"},"state":{"S":"Virginia"}}}
+{"Item":{"city-name":{"S":"Trenton"},"state":{"S":"New Jersey"}}}
+{"Item":{"city-name":{"S":"Rosemead"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Woodbury"},"state":{"S":"Minnesota"}}}
+{"Item":{"city-name":{"S":"Oak Lawn"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Plymouth"},"state":{"S":"Minnesota"}}}
+{"Item":{"city-name":{"S":"Jacksonville"},"state":{"S":"North Carolina"}}}
+{"Item":{"city-name":{"S":"Livonia"},"state":{"S":"Michigan"}}}
+{"Item":{"city-name":{"S":"Watsonville"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Hammond"},"state":{"S":"Indiana"}}}
+{"Item":{"city-name":{"S":"Edmond"},"state":{"S":"Oklahoma"}}}
+{"Item":{"city-name":{"S":"Downers Grove"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Chico"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Corvallis"},"state":{"S":"Oregon"}}}
+{"Item":{"city-name":{"S":"Santa Barbara"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Caldwell"},"state":{"S":"Idaho"}}}
+{"Item":{"city-name":{"S":"San Buenaventura (Ventura)"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Woburn"},"state":{"S":"Massachusetts"}}}
+{"Item":{"city-name":{"S":"Lima"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"Prescott"},"state":{"S":"Arizona"}}}
+{"Item":{"city-name":{"S":"Blacksburg"},"state":{"S":"Virginia"}}}
+{"Item":{"city-name":{"S":"Corona"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Fountain Valley"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Marlborough"},"state":{"S":"Massachusetts"}}}
+{"Item":{"city-name":{"S":"Savannah"},"state":{"S":"Georgia"}}}
+{"Item":{"city-name":{"S":"Houston"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Monrovia"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Colton"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Olathe"},"state":{"S":"Kansas"}}}
+{"Item":{"city-name":{"S":"Palm Springs"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Normal"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Belleville"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Lakeville"},"state":{"S":"Minnesota"}}}
+{"Item":{"city-name":{"S":"Tracy"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"San Clemente"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Santa Monica"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Lee's Summit"},"state":{"S":"Missouri"}}}
+{"Item":{"city-name":{"S":"Cleveland"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"Huber Heights"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"Cicero"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Linden"},"state":{"S":"New Jersey"}}}
+{"Item":{"city-name":{"S":"Beaumont"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Iowa City"},"state":{"S":"Iowa"}}}
+{"Item":{"city-name":{"S":"Sandy"},"state":{"S":"Utah"}}}
+{"Item":{"city-name":{"S":"Compton"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Diamond Bar"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Philadelphia"},"state":{"S":"Pennsylvania"}}}
+{"Item":{"city-name":{"S":"Margate"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"DeKalb"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Amarillo"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Woodland"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Laguna Niguel"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Pflugerville"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Tuscaloosa"},"state":{"S":"Alabama"}}}
+{"Item":{"city-name":{"S":"Calexico"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Palm Beach Gardens"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Gresham"},"state":{"S":"Oregon"}}}
+{"Item":{"city-name":{"S":"Harrisonburg"},"state":{"S":"Virginia"}}}
+{"Item":{"city-name":{"S":"Bentonville"},"state":{"S":"Arkansas"}}}
+{"Item":{"city-name":{"S":"Salt Lake City"},"state":{"S":"Utah"}}}
+{"Item":{"city-name":{"S":"Lowell"},"state":{"S":"Massachusetts"}}}
+{"Item":{"city-name":{"S":"South San Francisco"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Malden"},"state":{"S":"Massachusetts"}}}
+{"Item":{"city-name":{"S":"Santa Ana"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Elyria"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"Hawthorne"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Meridian"},"state":{"S":"Idaho"}}}
+{"Item":{"city-name":{"S":"Taylorsville"},"state":{"S":"Utah"}}}
+{"Item":{"city-name":{"S":"Laredo"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Grand Rapids"},"state":{"S":"Michigan"}}}
+{"Item":{"city-name":{"S":"Oro Valley"},"state":{"S":"Arizona"}}}
+{"Item":{"city-name":{"S":"Wellington"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Freeport"},"state":{"S":"New York"}}}
+{"Item":{"city-name":{"S":"Biloxi"},"state":{"S":"Mississippi"}}}
+{"Item":{"city-name":{"S":"White Plains"},"state":{"S":"New York"}}}
+{"Item":{"city-name":{"S":"Oak Park"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Cupertino"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Bonita Springs"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Riverton"},"state":{"S":"Utah"}}}
+{"Item":{"city-name":{"S":"The Colony"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Cleveland Heights"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"Gardena"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"West Des Moines"},"state":{"S":"Iowa"}}}
+{"Item":{"city-name":{"S":"Hickory"},"state":{"S":"North Carolina"}}}
+{"Item":{"city-name":{"S":"Ontario"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Davis"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"West New York"},"state":{"S":"New Jersey"}}}
+{"Item":{"city-name":{"S":"Pearland"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Hallandale Beach"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Deerfield Beach"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Berwyn"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Carpentersville"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Bethlehem"},"state":{"S":"Pennsylvania"}}}
+{"Item":{"city-name":{"S":"Eastvale"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Garland"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Phenix City"},"state":{"S":"Alabama"}}}
+{"Item":{"city-name":{"S":"Lakewood"},"state":{"S":"Colorado"}}}
+{"Item":{"city-name":{"S":"Nampa"},"state":{"S":"Idaho"}}}
+{"Item":{"city-name":{"S":"Walnut Creek"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Manassas"},"state":{"S":"Virginia"}}}
+{"Item":{"city-name":{"S":"Durham"},"state":{"S":"North Carolina"}}}
+{"Item":{"city-name":{"S":"Fitchburg"},"state":{"S":"Massachusetts"}}}
+{"Item":{"city-name":{"S":"Lexington-Fayette"},"state":{"S":"Kentucky"}}}
+{"Item":{"city-name":{"S":"Edina"},"state":{"S":"Minnesota"}}}
+{"Item":{"city-name":{"S":"Tacoma"},"state":{"S":"Washington"}}}
+{"Item":{"city-name":{"S":"Billings"},"state":{"S":"Montana"}}}
+{"Item":{"city-name":{"S":"Taunton"},"state":{"S":"Massachusetts"}}}
+{"Item":{"city-name":{"S":"Gulfport"},"state":{"S":"Mississippi"}}}
+{"Item":{"city-name":{"S":"Jackson"},"state":{"S":"Tennessee"}}}
+{"Item":{"city-name":{"S":"Pinellas Park"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Addison"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"San Bernardino"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Campbell"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Jefferson City"},"state":{"S":"Missouri"}}}
+{"Item":{"city-name":{"S":"Cincinnati"},"state":{"S":"Ohio"}}}
+{"Item":{"city-name":{"S":"Tulare"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Louisville/Jefferson County"},"state":{"S":"Kentucky"}}}
+{"Item":{"city-name":{"S":"Palmdale"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Kennewick"},"state":{"S":"Washington"}}}
+{"Item":{"city-name":{"S":"Coachella"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Blue Springs"},"state":{"S":"Missouri"}}}
+{"Item":{"city-name":{"S":"Mount Prospect"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Lakeland"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Gilbert"},"state":{"S":"Arizona"}}}
+{"Item":{"city-name":{"S":"Rock Island"},"state":{"S":"Illinois"}}}
+{"Item":{"city-name":{"S":"Burleson"},"state":{"S":"Texas"}}}
+{"Item":{"city-name":{"S":"Greensboro"},"state":{"S":"North Carolina"}}}
+{"Item":{"city-name":{"S":"Baldwin Park"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Charlotte"},"state":{"S":"North Carolina"}}}
+{"Item":{"city-name":{"S":"Joplin"},"state":{"S":"Missouri"}}}
+{"Item":{"city-name":{"S":"Barnstable Town"},"state":{"S":"Massachusetts"}}}
+{"Item":{"city-name":{"S":"Bartlett"},"state":{"S":"Tennessee"}}}
+{"Item":{"city-name":{"S":"Longmont"},"state":{"S":"Colorado"}}}
+{"Item":{"city-name":{"S":"Brookhaven"},"state":{"S":"Georgia"}}}
+{"Item":{"city-name":{"S":"Roswell"},"state":{"S":"New Mexico"}}}
+{"Item":{"city-name":{"S":"Sunnyvale"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"La Mesa"},"state":{"S":"California"}}}
+{"Item":{"city-name":{"S":"Wauwatosa"},"state":{"S":"Wisconsin"}}}
+{"Item":{"city-name":{"S":"Bradenton"},"state":{"S":"Florida"}}}
+{"Item":{"city-name":{"S":"Fort Wayne"},"state":{"S":"Indiana"}}}
+{"Item":{"city-name":{"S":"Wichita"},"state":{"S":"Kansas"}}}
+{"Item":{"city-name":{"S":"Franklin"},"state":{"S":"Tennessee"}}}
+{"Item":{"city-name":{"S":"Spartanburg"},"state":{"S":"South Carolina"}}}
