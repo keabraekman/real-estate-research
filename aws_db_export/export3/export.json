@@ -1,0 +1,7407 @@
+{
+    "Items": [
+        {
+            "city-name": {
+                "S": "Apache Junction"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Burbank"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Westfield"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pomona"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hoffman Estates"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Greeley"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Azusa"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kansas City"
+            },
+            "state": {
+                "S": "Kansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cedar Park"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chesapeake"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Milpitas"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sammamish"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kingsport"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Davenport"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Des Moines"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Titusville"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bossier City"
+            },
+            "state": {
+                "S": "Louisiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Killeen"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Richland"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hampton"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "National City"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Carlsbad"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "North Little Rock"
+            },
+            "state": {
+                "S": "Arkansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Boise City"
+            },
+            "state": {
+                "S": "Idaho"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Troy"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Commerce City"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Oxnard"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "New Bedford"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Glenview"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Novi"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Union City"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Arlington Heights"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Livermore"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mesquite"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Marana"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Holyoke"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Covington"
+            },
+            "state": {
+                "S": "Kentucky"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Buffalo"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Oakley"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bellingham"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Omaha"
+            },
+            "state": {
+                "S": "Nebraska"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Brownsville"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bend"
+            },
+            "state": {
+                "S": "Oregon"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chicopee"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lake Elsinore"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pensacola"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Waltham"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Alhambra"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Joliet"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Urbana"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Edinburg"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Brockton"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sugar Land"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Haverhill"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Minneapolis"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Moorhead"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rancho Palos Verdes"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Taylor"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bellevue"
+            },
+            "state": {
+                "S": "Nebraska"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Norwich"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rancho Cordova"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Montgomery"
+            },
+            "state": {
+                "S": "Alabama"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lynchburg"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pico Rivera"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Portland"
+            },
+            "state": {
+                "S": "Maine"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cambridge"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Gastonia"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Dearborn"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lehi"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "North Port"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chapel Hill"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Daly City"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Yucaipa"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Riverside"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bristol"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Thousand Oaks"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mobile"
+            },
+            "state": {
+                "S": "Alabama"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Keizer"
+            },
+            "state": {
+                "S": "Oregon"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Park Ridge"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Frisco"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Temecula"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sanford"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "St. Cloud"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Goose Creek"
+            },
+            "state": {
+                "S": "South Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "North Las Vegas"
+            },
+            "state": {
+                "S": "Nevada"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Napa"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wilmington"
+            },
+            "state": {
+                "S": "Delaware"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Murfreesboro"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Escondido"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mankato"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Evansville"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Centennial"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fairfield"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "New York"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mansfield"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Boca Raton"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kenner"
+            },
+            "state": {
+                "S": "Louisiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Broken Arrow"
+            },
+            "state": {
+                "S": "Oklahoma"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mountain View"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pharr"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Seattle"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bellflower"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fayetteville"
+            },
+            "state": {
+                "S": "Arkansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chino"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Las Vegas"
+            },
+            "state": {
+                "S": "Nevada"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Middletown"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lubbock"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Provo"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Utica"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "South Jordan"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Streamwood"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Jonesboro"
+            },
+            "state": {
+                "S": "Arkansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Denton"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "North Miami"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Camden"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Oakland"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "El Paso"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Downey"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Canton"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Westland"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Littleton"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Missoula"
+            },
+            "state": {
+                "S": "Montana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bozeman"
+            },
+            "state": {
+                "S": "Montana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Warwick"
+            },
+            "state": {
+                "S": "Rhode Island"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Huntington Beach"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "South Gate"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Albany"
+            },
+            "state": {
+                "S": "Oregon"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Atlantic City"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Longview"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Orem"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lorain"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Mateo"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sparks"
+            },
+            "state": {
+                "S": "Nevada"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lake Forest"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Victorville"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Waterloo"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Revere"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Summerville"
+            },
+            "state": {
+                "S": "South Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Florissant"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Redmond"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Grand Forks"
+            },
+            "state": {
+                "S": "North Dakota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Columbia"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "North Miami Beach"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Modesto"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Coon Rapids"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Dothan"
+            },
+            "state": {
+                "S": "Alabama"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Largo"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Weymouth Town"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Monroe"
+            },
+            "state": {
+                "S": "Louisiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Encinitas"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Puyallup"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hoboken"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "La Crosse"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Perris"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Baytown"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Brookfield"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chandler"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Coppell"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Petaluma"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Medford"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Placentia"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Danville"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Youngstown"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sandy Springs"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Stillwater"
+            },
+            "state": {
+                "S": "Oklahoma"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hattiesburg"
+            },
+            "state": {
+                "S": "Mississippi"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Decatur"
+            },
+            "state": {
+                "S": "Alabama"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Muskogee"
+            },
+            "state": {
+                "S": "Oklahoma"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Glendora"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rockwall"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "La Habra"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "New Braunfels"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Port Arthur"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Grand Prairie"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Haltom City"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hialeah"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Simi Valley"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Virginia Beach"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Las Cruces"
+            },
+            "state": {
+                "S": "New Mexico"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Baltimore"
+            },
+            "state": {
+                "S": "Maryland"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Elizabeth"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "East Providence"
+            },
+            "state": {
+                "S": "Rhode Island"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Auburn"
+            },
+            "state": {
+                "S": "Alabama"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bakersfield"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Coral Gables"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lynwood"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Binghamton"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Columbus"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Apex"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Santa Maria"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Buckeye"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Boston"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Roy"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Palm Desert"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Valley Stream"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Grapevine"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Portsmouth"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kissimmee"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Southfield"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Redwood City"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Ankeny"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Midland"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Plantation"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lansing"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Orange"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hartford"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "New Rochelle"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "St. Louis"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sterling Heights"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Gabriel"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Altoona"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Palo Alto"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Jupiter"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tyler"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Apple Valley"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hemet"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chicago"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Charlottesville"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Ames"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Ramon"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bedford"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Galveston"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sioux Falls"
+            },
+            "state": {
+                "S": "South Dakota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rancho Cucamonga"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Conroe"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chula Vista"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Grand Island"
+            },
+            "state": {
+                "S": "Nebraska"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mount Vernon"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lancaster"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tigard"
+            },
+            "state": {
+                "S": "Oregon"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Greenacres"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wheaton"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pasco"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rialto"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Plainfield"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Altamonte Springs"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Gary"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Minnetonka"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Coral Springs"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Alameda"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Montebello"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Olympia"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pawtucket"
+            },
+            "state": {
+                "S": "Rhode Island"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Westminster"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Conway"
+            },
+            "state": {
+                "S": "Arkansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Topeka"
+            },
+            "state": {
+                "S": "Kansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "New Britain"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Huntington"
+            },
+            "state": {
+                "S": "West Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Erie"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Coeur d'Alene"
+            },
+            "state": {
+                "S": "Idaho"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Ann Arbor"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Oshkosh"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Davie"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lincoln Park"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fort Collins"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Meriden"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Camarillo"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Aventura"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Newark"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "McAllen"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Port St. Lucie"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "West Allis"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pittsfield"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Nashville-Davidson"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Milwaukee"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Warner Robins"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Berkeley"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Gainesville"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Ormond Beach"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kalamazoo"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Portage"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Raleigh"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hilton Head Island"
+            },
+            "state": {
+                "S": "South Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Richardson"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Scranton"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Farmington"
+            },
+            "state": {
+                "S": "New Mexico"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Northglenn"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mentor"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fall River"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Irving"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Costa Mesa"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lake Oswego"
+            },
+            "state": {
+                "S": "Oregon"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cutler Bay"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Maplewood"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Milford"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bountiful"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Elmhurst"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Miami"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Spanish Fork"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Oklahoma City"
+            },
+            "state": {
+                "S": "Oklahoma"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bell Gardens"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Miami Gardens"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Springfield"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Dunwoody"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "New Berlin"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Schenectady"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Eau Claire"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Green Bay"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rohnert Park"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Roanoke"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Richmond"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Manteca"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bayonne"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Euclid"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "La Puente"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Suffolk"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wyoming"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Saginaw"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Winter Garden"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Clifton"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Huntsville"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Enid"
+            },
+            "state": {
+                "S": "Oklahoma"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Greenwood"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "O'Fallon"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Jose"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Vallejo"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Waco"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Victoria"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Santa Clarita"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "North Lauderdale"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hillsboro"
+            },
+            "state": {
+                "S": "Oregon"
+            }
+        },
+        {
+            "city-name": {
+                "S": "York"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Novato"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rapid City"
+            },
+            "state": {
+                "S": "South Dakota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tampa"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pueblo"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Spokane"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chelsea"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Dallas"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lauderhill"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Woonsocket"
+            },
+            "state": {
+                "S": "Rhode Island"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kenosha"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Alpharetta"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rockford"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Anchorage"
+            },
+            "state": {
+                "S": "Alaska"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Findlay"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pine Bluff"
+            },
+            "state": {
+                "S": "Arkansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Shelton"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sayreville"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lawton"
+            },
+            "state": {
+                "S": "Oklahoma"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Thornton"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "St. Charles"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Clovis"
+            },
+            "state": {
+                "S": "New Mexico"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Vacaville"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Akron"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Carson"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Beverly"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Visalia"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Corpus Christi"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Texarkana"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Royal Oak"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Independence"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Whittier"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Citrus Heights"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Redlands"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Garden Grove"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Boulder"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rowlett"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Castle Rock"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Scottsdale"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Menifee"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Paramount"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hutchinson"
+            },
+            "state": {
+                "S": "Kansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Clearwater"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Covina"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Anaheim"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Minot"
+            },
+            "state": {
+                "S": "North Dakota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tallahassee"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Greenfield"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Harlingen"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Federal Way"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kettering"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "East Orange"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Manhattan"
+            },
+            "state": {
+                "S": "Kansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Jurupa Valley"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Poway"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rio Rancho"
+            },
+            "state": {
+                "S": "New Mexico"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lake Havasu City"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sumter"
+            },
+            "state": {
+                "S": "South Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Los Angeles"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Johns Creek"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pleasanton"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Deltona"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lenexa"
+            },
+            "state": {
+                "S": "Kansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fort Smith"
+            },
+            "state": {
+                "S": "Arkansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Council Bluffs"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Salem"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Shakopee"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Delray Beach"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Santee"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Denver"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Honolulu"
+            },
+            "state": {
+                "S": "Hawaii"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Noblesville"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tulsa"
+            },
+            "state": {
+                "S": "Oklahoma"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pittsburgh"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Winston-Salem"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Culver City"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "College Station"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mission"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Racine"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Flagstaff"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Frederick"
+            },
+            "state": {
+                "S": "Maryland"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Irvine"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Westerville"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fort Pierce"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Charleston"
+            },
+            "state": {
+                "S": "West Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Monterey Park"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lompoc"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "El Monte"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Overland Park"
+            },
+            "state": {
+                "S": "Kansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Missouri City"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Carson City"
+            },
+            "state": {
+                "S": "Nevada"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Skokie"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Collierville"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Santa Clara"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Porterville"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Reno"
+            },
+            "state": {
+                "S": "Nevada"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Waukesha"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Strongsville"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Parker"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Providence"
+            },
+            "state": {
+                "S": "Rhode Island"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Twin Falls"
+            },
+            "state": {
+                "S": "Idaho"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pembroke Pines"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Des Plaines"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Moreno Valley"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lodi"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fremont"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hollywood"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Inglewood"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wilson"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Casa Grande"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Torrance"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hackensack"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "West Sacramento"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Manchester"
+            },
+            "state": {
+                "S": "New Hampshire"
+            }
+        },
+        {
+            "city-name": {
+                "S": "St. Paul"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kentwood"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Reading"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Antioch"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Abilene"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Jersey City"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Round Rock"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Goodyear"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Texas City"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Eastvale"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cary"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Santa Barbara"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "West New York"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Marlborough"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Campbell"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Buenaventura (Ventura)"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rock Island"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Manassas"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tuscaloosa"
+            },
+            "state": {
+                "S": "Alabama"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Gilbert"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Belleville"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bentonville"
+            },
+            "state": {
+                "S": "Arkansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lombard"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kearny"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lakeville"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sherman"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Greensboro"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fort Lauderdale"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Loveland"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Madera"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Yorba Linda"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Warren"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Carmel"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Allen"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mount Prospect"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Livonia"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Stanton"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Walnut Creek"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Calexico"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Spartanburg"
+            },
+            "state": {
+                "S": "South Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Florence"
+            },
+            "state": {
+                "S": "South Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "DeKalb"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Terre Haute"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bradenton"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Clemente"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cleveland Heights"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cupertino"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Leandro"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Laredo"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tucson"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Daytona Beach"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Midwest City"
+            },
+            "state": {
+                "S": "Oklahoma"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sandy"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "West Jordan"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fort Worth"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Flower Mound"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Davis"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Muskegon"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Brookhaven"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Attleboro"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Normal"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rogers"
+            },
+            "state": {
+                "S": "Arkansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "New Orleans"
+            },
+            "state": {
+                "S": "Louisiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Waterbury"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Oak Park"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Houston"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Arvada"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Louisville/Jefferson County"
+            },
+            "state": {
+                "S": "Kentucky"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Corona"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Biloxi"
+            },
+            "state": {
+                "S": "Mississippi"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rock Hill"
+            },
+            "state": {
+                "S": "South Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Downers Grove"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Detroit"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Syracuse"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fullerton"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Elyria"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Nampa"
+            },
+            "state": {
+                "S": "Idaho"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bonita Springs"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Monrovia"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "St. George"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Roswell"
+            },
+            "state": {
+                "S": "New Mexico"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lakewood"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Concord"
+            },
+            "state": {
+                "S": "New Hampshire"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Edina"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "South San Francisco"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Ontario"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Amarillo"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Keller"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lee's Summit"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Jackson"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Washington"
+            },
+            "state": {
+                "S": "District of Columbia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Glendale"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Harrisonburg"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hesperia"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cedar Rapids"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Buffalo Grove"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "El Cajon"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Woodland"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Madison"
+            },
+            "state": {
+                "S": "Alabama"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Jacksonville"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Brentwood"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bridgeport"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hurst"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Phoenix"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Franklin"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Janesville"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Eugene"
+            },
+            "state": {
+                "S": "Oregon"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Diamond Bar"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lewisville"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lake Charles"
+            },
+            "state": {
+                "S": "Louisiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Longmont"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Battle Creek"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Carpentersville"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Baldwin Park"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Iowa City"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Martinez"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Vancouver"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wellington"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Norwalk"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Marietta"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "East Lansing"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Plymouth"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tracy"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wichita"
+            },
+            "state": {
+                "S": "Kansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Edmond"
+            },
+            "state": {
+                "S": "Oklahoma"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Berwyn"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Gulfport"
+            },
+            "state": {
+                "S": "Mississippi"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Francisco"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "New Brunswick"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "La Mesa"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Olathe"
+            },
+            "state": {
+                "S": "Kansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cleveland"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Yuba City"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Palm Beach Gardens"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Nashua"
+            },
+            "state": {
+                "S": "New Hampshire"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hawthorne"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Margate"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Santa Cruz"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Salinas"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pflugerville"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Casper"
+            },
+            "state": {
+                "S": "Wyoming"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Champaign"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Dublin"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hamilton"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hallandale Beach"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Joplin"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "DeSoto"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Broomfield"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Palm Springs"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Homestead"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Huntington Park"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Coconut Creek"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "West Des Moines"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fort Wayne"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lima"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Apopka"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fitchburg"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Caldwell"
+            },
+            "state": {
+                "S": "Idaho"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Oro Valley"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Colton"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cicero"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Santa Monica"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "West Palm Beach"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Yonkers"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Corvallis"
+            },
+            "state": {
+                "S": "Oregon"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Taunton"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Barnstable Town"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Oak Lawn"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "North Charleston"
+            },
+            "state": {
+                "S": "South Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Stamford"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pinellas Park"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hammond"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "El Centro"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Savannah"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Dayton"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Freeport"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Garland"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cincinnati"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Jefferson City"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Grand Rapids"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chico"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Grand Junction"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bethlehem"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Prescott"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Bernardino"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "St. Clair Shores"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "The Colony"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Riverton"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Watsonville"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Deerfield Beach"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Maricopa"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Boynton Beach"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Beavercreek"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Beloit"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Salt Lake City"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Santa Fe"
+            },
+            "state": {
+                "S": "New Mexico"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pearland"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Meridian"
+            },
+            "state": {
+                "S": "Mississippi"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Gardena"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Philadelphia"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Logan"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Murrieta"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wheeling"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "McKinney"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Compton"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Taylorsville"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Burleson"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pontiac"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Santa Ana"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fresno"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Flint"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Addison"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Linden"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rosemead"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Laguna Niguel"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rancho Santa Margarita"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tulare"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "White Plains"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tacoma"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Newton"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lowell"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cuyahoga Falls"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "North Richland Hills"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Billings"
+            },
+            "state": {
+                "S": "Montana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Charlotte"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kennewick"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Trenton"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Palmdale"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Salina"
+            },
+            "state": {
+                "S": "Kansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sunnyvale"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Gresham"
+            },
+            "state": {
+                "S": "Oregon"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fountain Valley"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Durham"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bartlett"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Malden"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Doral"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Port Orange"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Coachella"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Orlando"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Norfolk"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lexington-Fayette"
+            },
+            "state": {
+                "S": "Kentucky"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Blacksburg"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wauwatosa"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cerritos"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Huber Heights"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Colorado Springs"
+            },
+            "state": {
+                "S": "Colorado"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fishers"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pasadena"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hickory"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Phenix City"
+            },
+            "state": {
+                "S": "Alabama"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bloomington"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Woodbury"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Antonio"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hanover Park"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kent"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Woburn"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Blue Springs"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Beaumont"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lakeland"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rockville"
+            },
+            "state": {
+                "S": "Maryland"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Jacinto"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sheboygan"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Temple"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Johnson City"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kannapolis"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Everett"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Somerville"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Anderson"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Little Rock"
+            },
+            "state": {
+                "S": "Arkansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lynn"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lafayette"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Weslaco"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Clarksville"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Schaumburg"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bremerton"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Peachtree Corners"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bolingbrook"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Passaic"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Ocala"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Blaine"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mishawaka"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "St. Joseph"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cape Coral"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hayward"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wylie"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "West Haven"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Leominster"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Muncie"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Long Beach"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "La Mirada"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Palm Coast"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Vineland"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tinley Park"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Oceanside"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Worcester"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Indio"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "West Valley City"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "St. Louis Park"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Southaven"
+            },
+            "state": {
+                "S": "Mississippi"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Aliso Viejo"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "New Haven"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sacramento"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Yuma"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hempstead"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Indianapolis"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rochester Hills"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Turlock"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cedar Hill"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Luis Obispo"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cheyenne"
+            },
+            "state": {
+                "S": "Wyoming"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kirkland"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Great Falls"
+            },
+            "state": {
+                "S": "Montana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Euless"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Burien"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cape Girardeau"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Palatine"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Ceres"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Peoria"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Spokane Valley"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Ocoee"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Layton"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Redding"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Carol Stream"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Merced"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hanford"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Friendswood"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Montclair"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Idaho Falls"
+            },
+            "state": {
+                "S": "Idaho"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Peabody"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Odessa"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Duluth"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Renton"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Yakima"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rocky Mount"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Henderson"
+            },
+            "state": {
+                "S": "Nevada"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Bruno"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Athens-Clarke County"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Aurora"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tempe"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Georgetown"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Surprise"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bismarck"
+            },
+            "state": {
+                "S": "North Dakota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pittsburg"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Upland"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Miami Beach"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Ogden"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Folsom"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lacey"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Baton Rouge"
+            },
+            "state": {
+                "S": "Louisiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fargo"
+            },
+            "state": {
+                "S": "North Dakota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Palm Bay"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pacifica"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Highland"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Evanston"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "city"
+            },
+            "state": {
+                "S": "state"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pocatello"
+            },
+            "state": {
+                "S": "Idaho"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bowling Green"
+            },
+            "state": {
+                "S": "Kentucky"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Augusta-Richmond County"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tustin"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Norman"
+            },
+            "state": {
+                "S": "Oklahoma"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Tamarac"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wilkes-Barre"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rochester"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "High Point"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Marcos"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "St. Peters"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Knoxville"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Gaithersburg"
+            },
+            "state": {
+                "S": "Maryland"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fort Myers"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Shoreline"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sunrise"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Brooklyn Park"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Niagara Falls"
+            },
+            "state": {
+                "S": "New York"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Methuen"
+            },
+            "state": {
+                "S": "Massachusetts"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Elk Grove"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Dubuque"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Oakland Park"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Newport News"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Morgan Hill"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Newport Beach"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Greenville"
+            },
+            "state": {
+                "S": "South Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Danbury"
+            },
+            "state": {
+                "S": "Connecticut"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Shreveport"
+            },
+            "state": {
+                "S": "Louisiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Orland Park"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sierra Vista"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Beaverton"
+            },
+            "state": {
+                "S": "Oregon"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Stockton"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Miramar"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hagerstown"
+            },
+            "state": {
+                "S": "Maryland"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Farmington Hills"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Carrollton"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Leesburg"
+            },
+            "state": {
+                "S": "Virginia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bowie"
+            },
+            "state": {
+                "S": "Maryland"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Jeffersonville"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Avondale"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Toledo"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cranston"
+            },
+            "state": {
+                "S": "Rhode Island"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Eden Prairie"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Burnsville"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Calumet City"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Elgin"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Roseville"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Perth Amboy"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cedar Falls"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mission Viejo"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chino Hills"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Birmingham"
+            },
+            "state": {
+                "S": "Alabama"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Urbandale"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Diego"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chesterfield"
+            },
+            "state": {
+                "S": "Missouri"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Waukegan"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Redondo Beach"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Moline"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Harrisburg"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Gilroy"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Quincy"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lawrence"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Weston"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Duncanville"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Chattanooga"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wichita Falls"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Plano"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Albuquerque"
+            },
+            "state": {
+                "S": "New Mexico"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Dover"
+            },
+            "state": {
+                "S": "Delaware"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Shawnee"
+            },
+            "state": {
+                "S": "Kansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Dearborn Heights"
+            },
+            "state": {
+                "S": "Michigan"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Rafael"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Annapolis"
+            },
+            "state": {
+                "S": "Maryland"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Melbourne"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Arlington"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "San Angelo"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Owensboro"
+            },
+            "state": {
+                "S": "Kentucky"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bryan"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Memphis"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Lincoln"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Eagan"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Austin"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Valdosta"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Vista"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Burlington"
+            },
+            "state": {
+                "S": "Vermont"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Murray"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Germantown"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Moore"
+            },
+            "state": {
+                "S": "Oklahoma"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sarasota"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "South Bend"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Springdale"
+            },
+            "state": {
+                "S": "Arkansas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cathedral City"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "West Covina"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Naperville"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Bullhead City"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Asheville"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Maple Grove"
+            },
+            "state": {
+                "S": "Minnesota"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Romeoville"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Buena Park"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fond du Lac"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Macon"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Rocklin"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Wausau"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Edmonds"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Allentown"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Prescott Valley"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Grove City"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Elkhart"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Delano"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Santa Rosa"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Fontana"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Arcadia"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Smyrna"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mesa"
+            },
+            "state": {
+                "S": "Arizona"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Sioux City"
+            },
+            "state": {
+                "S": "Iowa"
+            }
+        },
+        {
+            "city-name": {
+                "S": "La Quinta"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Pompano Beach"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Appleton"
+            },
+            "state": {
+                "S": "Wisconsin"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Alexandria"
+            },
+            "state": {
+                "S": "Louisiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "State College"
+            },
+            "state": {
+                "S": "Pennsylvania"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hoover"
+            },
+            "state": {
+                "S": "Alabama"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Huntersville"
+            },
+            "state": {
+                "S": "North Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Cypress"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Brea"
+            },
+            "state": {
+                "S": "California"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Parma"
+            },
+            "state": {
+                "S": "Ohio"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Atlanta"
+            },
+            "state": {
+                "S": "Georgia"
+            }
+        },
+        {
+            "city-name": {
+                "S": "League City"
+            },
+            "state": {
+                "S": "Texas"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Hendersonville"
+            },
+            "state": {
+                "S": "Tennessee"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Kokomo"
+            },
+            "state": {
+                "S": "Indiana"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Draper"
+            },
+            "state": {
+                "S": "Utah"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Mount Pleasant"
+            },
+            "state": {
+                "S": "South Carolina"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Paterson"
+            },
+            "state": {
+                "S": "New Jersey"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Marysville"
+            },
+            "state": {
+                "S": "Washington"
+            }
+        },
+        {
+            "city-name": {
+                "S": "Crystal Lake"
+            },
+            "state": {
+                "S": "Illinois"
+            }
+        },
+        {
+            "city-name": {
+                "S": "St. Petersburg"
+            },
+            "state": {
+                "S": "Florida"
+            }
+        }
+    ],
+    "Count": 925,
+    "ScannedCount": 925,
+    "ConsumedCapacity": null
+}
