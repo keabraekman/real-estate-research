@@ -1,3 +1,5 @@
+import pickle 
+
 states_abbreviations = ['al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'dc', 'fl', 'ga', 
 'hi', 'ia', 'id', 'il', 'in', 'ks', 'ky', 'la', 'ma', 'md', 'me', 'mi', 
 'mn', 'mo', 'ms', 'mt', 'nc', 'nd', 'ne', 'nh', 'nj', 'nm', 'nv', 'ny', 'oh', 
@@ -16,7 +18,7 @@ states = ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado',
 
 # states_abbreviations = ['al']
 
-url_segments = []
+url_array = []
 for i in range(len(states_abbreviations)):
     file_name = states_abbreviations[i] + '.txt'
     geoid_open = open(file_name,'r')
@@ -29,14 +31,15 @@ for i in range(len(states_abbreviations)):
     state = states[i]
 
     for j in range(len(places)):
-        url_segments.append('https://www.homearea.com/place/' + places[j].replace(' ', '-') + '-' + state + '/' + state_ids[j] + place_ids[j])
+        url_array.append('https://www.homearea.com/place/' + places[j].replace(' ', '-') + '-' + state + '/' + state_ids[j] + place_ids[j])
 
 # https://www.homearea.com/place/yoder-town-wyoming/5686665/
 
-print("\n".join(url_segments))
-print(len(url_segments))
+print("\n".join(url_array))
+print(len(url_array))
     
-
+with open('url-array.pickle', 'wb') as handle:
+    pickle.dump(url_array, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 # content2 = open('ak.txt','r')
 # content = content2.read()
