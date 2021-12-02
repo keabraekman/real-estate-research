@@ -18,28 +18,46 @@ states = ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado',
 
 # states_abbreviations = ['al']
 
-url_array = []
-for i in range(len(states_abbreviations)):
-    file_name = states_abbreviations[i] + '.txt'
-    geoid_open = open(file_name,'r')
-    geoid = geoid_open.read()
-    geoid_split = geoid.split('|')
 
-    places = geoid_split[3::6]
-    state_ids = geoid_split[1::6]
-    place_ids = geoid_split[2::6]
-    state = states[i]
+def url_array():
+    url_array = []
+    for i in range(len(states_abbreviations)):
+        file_name = states_abbreviations[i] + '.txt'
+        geoid_open = open(file_name,'r')
+        geoid = geoid_open.read()
+        geoid_split = geoid.split('|')
 
-    for j in range(len(places)):
-        url_array.append('https://www.homearea.com/place/' + places[j].replace(' ', '-') + '-' + state + '/' + state_ids[j] + place_ids[j])
+        places = geoid_split[3::6]
+        state_ids = geoid_split[1::6]
+        place_ids = geoid_split[2::6]
+        state = states[i]
 
-# https://www.homearea.com/place/yoder-town-wyoming/5686665/
+        for j in range(len(places)):
+            url_array.append('https://www.homearea.com/place/' + places[j].replace(' ', '-') + '-' + state + '/' + state_ids[j] + place_ids[j])        
+    with open('url-array.pickle', 'wb') as handle:
+        pickle.dump(url_array, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
-print("\n".join(url_array))
-print(len(url_array))
-    
-with open('url-array.pickle', 'wb') as handle:
-    pickle.dump(url_array, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
+
+url_array = pickle.load(open('url-array.pickle', 'rb'))
+
+
+def place_array():
+    place_array = []
+    for i in range(len(states_abbreviations)):
+        file_name = states_abbreviations[i] + '.txt'
+        geoid_open = open(file_name,'r')
+        geoid = geoid_open.read()
+        geoid_split = geoid.split('|')
+        places = geoid_split[3::6]
+        for j in range(len(places)):
+            place_array.append(places[j])
+    with open('place-array.pickle', 'wb') as handle:
+        pickle.dump(place_array, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
+place_array()
+
+
 
 # content2 = open('ak.txt','r')
 # content = content2.read()
