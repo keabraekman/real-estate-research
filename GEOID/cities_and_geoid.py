@@ -55,8 +55,25 @@ def place_array():
     with open('place-array.pickle', 'wb') as handle:
         pickle.dump(place_array, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
-place_array()
+# place_array()
 
+
+def state_array():
+    state_array = []
+    for i in range(len(states_abbreviations)):
+        file_name = states_abbreviations[i] + '.txt'
+        geoid_open = open(file_name,'r')
+        geoid = geoid_open.read()
+        geoid_split = geoid.split('|')
+        state = states[i]
+        places = geoid_split[3::6]
+        for j in range(len(places)):
+            state_array.append(state)
+    # print('state array = ', len(state_array))
+    with open('state-array.pickle', 'wb') as handle:
+        pickle.dump(state_array, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
+state_array()
 
 
 # content2 = open('ak.txt','r')
