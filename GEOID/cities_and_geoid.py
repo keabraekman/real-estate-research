@@ -88,12 +88,21 @@ def geoid_array():
         for j in range(len(state_ids)):
             geoid = str(state_ids[j]) + str(place_ids[j])
             geoid_array.append(int(geoid))
-    print('geoid_array = ', len(geoid_array))
     with open('geoid-array.pickle', 'wb') as handle:
-        pickle.dump(state_array, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        pickle.dump(geoid_array, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
-# geoid_array()
+geoid_array()
 
 # content2 = open('ak.txt','r')
 # content = content2.read()
 # print(content)
+
+geoid_array = pickle.load(open('geoid-array.pickle', 'rb'))
+place_array = pickle.load(open('place-array.pickle', 'rb'))
+state_array = pickle.load(open('state-array.pickle', 'rb'))
+url_array = pickle.load(open('url-array.pickle', 'rb'))
+
+print(geoid_array)
+# print(place_array)
+# print(state_array)
+# print(url_array)
