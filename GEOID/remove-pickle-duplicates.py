@@ -29,8 +29,13 @@ def export_new_list_to_pickle(filename, new_list):
     pickle.dump(new_list, open(filename, 'wb'))
 
 
-export_new_list_to_pickle('url-array.pickle', list_without_duplicates(url_array, indices_to_keep))
-export_new_list_to_pickle('state-array.pickle', list_without_duplicates(state_array, indices_to_keep))
-export_new_list_to_pickle('place-array.pickle', list_without_duplicates(place_array, indices_to_keep))
-export_new_list_to_pickle('geoid-array.pickle', list_without_duplicates(geoid_array, indices_to_keep))
+# export_new_list_to_pickle('url-array.pickle', list_without_duplicates(url_array, indices_to_keep))
+# export_new_list_to_pickle('state-array.pickle', list_without_duplicates(state_array, indices_to_keep))
+# export_new_list_to_pickle('place-array.pickle', list_without_duplicates(place_array, indices_to_keep))
+# export_new_list_to_pickle('geoid-array.pickle', list_without_duplicates(geoid_array, indices_to_keep))
+
+for i in range(len(url_array)):
+    # count = url_array.count(url_array[i])
+    if url_array.count(url_array[i]) > 1:
+        print('DUPLICATE = ', i)
 
