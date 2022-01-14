@@ -34,8 +34,32 @@ def export_new_list_to_pickle(filename, new_list):
 # export_new_list_to_pickle('place-array.pickle', list_without_duplicates(place_array, indices_to_keep))
 # export_new_list_to_pickle('geoid-array.pickle', list_without_duplicates(geoid_array, indices_to_keep))
 
-for i in range(len(url_array)):
-    # count = url_array.count(url_array[i])
-    if url_array.count(url_array[i]) > 1:
-        print('DUPLICATE = ', i)
+# for i in range(len(url_array)):
+#     # count = url_array.count(url_array[i])
+#     if url_array.count(url_array[i]) > 1:
+#         print('DUPLICATE = ', i)
 
+
+
+# Go thru each url
+# If url is not in list, add to list
+# And add corresponding state, place, city, geoid etc...
+
+unique_urls = []
+unique_geoids = []
+unique_states = []
+unique_places = []
+
+for i in range(len(url_array)):
+    if url_array[i] not in unique_urls:
+        print('ADDING : ', place_array[i])
+        unique_urls.append(url_array[i])
+        unique_geoids.append(geoid_array[i])
+        unique_states.append(state_array[i])
+        unique_places.append(place_array[i])
+
+
+pickle.dump(unique_urls, open('url-array.pickle', 'wb'))
+pickle.dump(unique_geoids, open('geoid-array.pickle', 'wb'))
+pickle.dump(unique_states, open('state-array.pickle', 'wb'))
+pickle.dump(unique_places, open('place-array.pickle', 'wb'))
