@@ -6,6 +6,7 @@ place_array = pickle.load(open('place-array.pickle', 'rb'))
 state_array = pickle.load(open('state-array.pickle', 'rb'))
 url_array = pickle.load(open('url-array.pickle', 'rb'))
 
+
 # We want to get the unique indices in url since it's our partition key
 # then transform all the arrays based on this list
 
@@ -45,21 +46,22 @@ def export_new_list_to_pickle(filename, new_list):
 # If url is not in list, add to list
 # And add corresponding state, place, city, geoid etc...
 
-unique_urls = []
-unique_geoids = []
-unique_states = []
-unique_places = []
+# unique_urls = []
+# unique_geoids = []
+# unique_states = []
+# unique_places = []
 
-for i in range(len(url_array)):
-    if url_array[i] not in unique_urls:
-        print('ADDING : ', place_array[i])
-        unique_urls.append(url_array[i])
-        unique_geoids.append(geoid_array[i])
-        unique_states.append(state_array[i])
-        unique_places.append(place_array[i])
+# for i in range(len(url_array)):
+#     if url_array[i] not in unique_urls:
+#         print('ADDING : ', place_array[i])
+#         unique_urls.append(url_array[i])
+#         unique_geoids.append(geoid_array[i])
+#         unique_states.append(state_array[i])
+#         unique_places.append(place_array[i])
 
 
-pickle.dump(unique_urls, open('url-array.pickle', 'wb'))
-pickle.dump(unique_geoids, open('geoid-array.pickle', 'wb'))
-pickle.dump(unique_states, open('state-array.pickle', 'wb'))
-pickle.dump(unique_places, open('place-array.pickle', 'wb'))
+# pickle.dump(unique_urls, open('url-array.pickle', 'wb'))
+# pickle.dump(unique_geoids, open('geoid-array.pickle', 'wb'))
+# pickle.dump(unique_states, open('state-array.pickle', 'wb'))
+# pickle.dump(unique_places, open('place-array.pickle', 'wb'))
+
